@@ -362,6 +362,19 @@ a:hover {
     z-index: 2;
 }
 
+.text-center p{
+    font-size: 20px;
+}
+
+.citation{
+    font-style: italic;
+}
+
+.text-center .citation-signature{
+    font-size: 15px;
+    line-height: 5px;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
